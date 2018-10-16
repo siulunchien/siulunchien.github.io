@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NK94TM64KF.cn.com.bluemoon.om",
+                "paths": [ "/app-universal-links/*"]
+            }
+        ]
+    }
+}
